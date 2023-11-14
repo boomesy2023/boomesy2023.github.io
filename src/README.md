@@ -2,11 +2,14 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: From Scratch
+bgImage: /assets/images/home_bg3.jpeg
+bgImageStyle:
+  background-attachment: fixed
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 夏天的飞鸟，来到我的窗前，歌唱，又飞走了。</br>秋天的黄叶，它们没有什么曲子可唱，一声叹息，飘落在地上。</br>——《飞鸟集》泰戈尔
 projects:
   - icon: project
     name: 项目名称
@@ -23,26 +26,10 @@ projects:
     desc: 书籍详细描述
     link: https://你的书籍链接
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
-
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
-
   - icon: /logo.svg
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: '主题：<a href="https://theme-hope.vuejs.press/zh/">VuePress Theme Hope</a>'
 ---
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
