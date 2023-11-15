@@ -86,7 +86,9 @@ export default hopeTheme({
   },
 
   plugins: {
-    blog: true,
+    blog: {
+      excerptLength: 100
+    },
     copyright: {
       global: true,
       triggerLength: 10,

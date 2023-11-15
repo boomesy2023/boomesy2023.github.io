@@ -25,4 +25,6 @@ article: false
 
 </center>
 
-<p align="right">——泰戈尔</p>
+:::right
+——泰戈尔
+:::
