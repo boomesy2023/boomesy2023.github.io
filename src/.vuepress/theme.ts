@@ -93,6 +93,7 @@ export default hopeTheme({
       global: true,
       triggerLength: 10,
     },
+    copyCode: {},
 
     // install @waline/client before enabling it
     // WARNING: This is a test server for demo only.
