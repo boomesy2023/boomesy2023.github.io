@@ -4,7 +4,7 @@ index: true
 article: false
 ---
 
-## Java
+## Java 简介
 
 引用 **_Oracle_** 官网的介绍：
 

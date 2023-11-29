@@ -4,7 +4,7 @@ index: true
 article: true
 ---
 
-## Rust
+## Rust 简介
 
 引用官网的介绍：
 
