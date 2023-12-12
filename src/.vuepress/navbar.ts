@@ -4,5 +4,6 @@ export default navbar([
   "/",
   "/coding/",
   "/favorite/",
-  "/intro/"
+  "/intro/",
+  "/leetcodes/",
 ]);
