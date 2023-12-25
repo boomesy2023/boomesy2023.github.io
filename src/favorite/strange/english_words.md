@@ -5,7 +5,7 @@ category:
 tag:
   - 常见单词
 star: true
-sticky: true
+sticky: false
 ---
 
 # 程序员英文文档常见单词
